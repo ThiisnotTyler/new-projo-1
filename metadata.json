@@ -1,0 +1,6 @@
+{
+  "name": "Dichotomy - The Picture Guessing Game",
+  "description": "Test your intuition in picture-based A or B guessing challenges with immediate feedback, customizable items, and real-time leaderboards.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
